@@ -3,6 +3,7 @@ package com.deneverairport.baggagerouting.model;
 import java.util.List;
 
 public class Graph {
+	
 	private final List<Vertex> vertexes;
 	private final List<Edge> edges;
 

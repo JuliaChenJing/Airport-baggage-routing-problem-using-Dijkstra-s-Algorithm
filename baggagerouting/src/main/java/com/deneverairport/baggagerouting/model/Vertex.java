@@ -1,6 +1,7 @@
 package com.deneverairport.baggagerouting.model;
 
 public class Vertex {
+	
 	final private String id;
 	final private String name;
 
